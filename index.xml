@@ -11,6 +11,17 @@
     
     
     <item>
+      <title>About Us</title>
+      <link>/about_us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about_us/</guid>
+      <description>We are largely researchers who are not afraid of traversing the unknown, and build knowledge iteratively. We are in the business of developing technologies that currently do not exist, but can be really useful if they did.
+We specifically address problems in the area of imaging and spectroscopy, automating instruments and creating an easier to use interface for researchers.
+Our efforts are towards realizing the complexity of reality in simpler systems.</description>
+    </item>
+    
+    <item>
       <title>Contact us</title>
       <link>/contact_us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -29,6 +40,25 @@ Address Goppanpally, Hyderabad, India.</description>
       <description>Looking for critical thinkers! We are looking to mentor critical thinkers in solving real-life problems with complex solutions across all domains of knowledge in a professional research environment.
 Abstract  Rs. 5000 monthly stipend Solutions are directly applied on all levels of the company Precursor to long-term employment in the company Performance bonus  Duration 3 months, extendable up to 6
 Mode We operate out of TIFR hyderabad, but we welcome work from home applicants provided they have reliable internet connection.</description>
+    </item>
+    
+    <item>
+      <title>Products</title>
+      <link>/products/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/products/</guid>
+      <description>Our products are designed to intuitively guide the user towards achieving their experimental objectives. We put ourselves in the shoes of the users, since many of us are primary users of the products that we develop, which helps us optimize workflow, like a sculpture would chisel a rock into a thing of beauty.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Broadly, we operate in the intersection of experimentation, instrumentation, software technologies and data science to make incremental progress towards solving hard problems in science.
+We are rethinking the philosophy of experimentation, and pushing the limits of existing instruments by reimagining hardware and software, starting from first principles. We use the latest software technologies and push the envelope in computer vision and deep learning, to exponentially increase the utility of the current technology.</description>
     </item>
     
   </channel>
