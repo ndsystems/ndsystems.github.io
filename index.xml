@@ -39,7 +39,7 @@ Address Goppanpally, Hyderabad, India.</description>
       <guid>/intern/</guid>
       <description>Looking for critical thinkers! We are looking to mentor critical thinkers in solving real-life problems with complex solutions across all domains of knowledge in a professional research environment.
 Abstract  Rs. 5000 monthly stipend Solutions are directly applied on all levels of the company Precursor to long-term employment in the company Performance bonus  Duration 3 months, extendable up to 6
-Mode We operate out of TIFR hyderabad, but we welcome work from home applicants provided they have reliable internet connection.</description>
+Mode We operate at Gopanpally, Hyderabad, but we welcome work from home applicants provided they have reliable internet connection.</description>
     </item>
     
     <item>
@@ -59,6 +59,16 @@ Mode We operate out of TIFR hyderabad, but we welcome work from home applicants 
       <guid>/research/</guid>
       <description>Broadly, we operate in the intersection of experimentation, instrumentation, software technologies and data science to make incremental progress towards solving hard problems in science.
 We are rethinking the philosophy of experimentation, and pushing the limits of existing instruments by reimagining hardware and software, starting from first principles. We use the latest software technologies and push the envelope in computer vision and deep learning, to exponentially increase the utility of the current technology.</description>
+    </item>
+    
+    <item>
+      <title>Survey</title>
+      <link>/survey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/survey/</guid>
+      <description>Thank you for showing intereset in taking the survey
+Proceed to microscope usage survey  </description>
     </item>
     
   </channel>
